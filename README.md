@@ -35,5 +35,5 @@ Open any text editor and start typing. Whenevr you want a suggestion for the nex
 #### Working:
 The model works best when there are already atleast two sentences before prediction.
 
-![Alt text](assets/Work.png)
+![Alt text](https://github.com/santoshdkolur/KeyFill/blob/master/assets/Work.png)
 
