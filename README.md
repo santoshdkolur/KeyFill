@@ -12,7 +12,7 @@ KeyFill is a word suggestion script built using keras, pyautogui and pynput.
 
 ## Current Build v0.01
 
-  - Suggested words are'nt perfect. The model needs to be perfected a bit.
+  - Suggested words aren't perfect. The model needs to be perfected a bit.
   - This is just the first working prototype.
   - The model was trained on a few english sentences.
  
